@@ -1,5 +1,3 @@
-# Finance Dashboard Backend
-
 ## Overview
 
 This project is a backend system for a finance dashboard application. It provides APIs for managing users, financial records, and dashboard analytics with role-based access control.
